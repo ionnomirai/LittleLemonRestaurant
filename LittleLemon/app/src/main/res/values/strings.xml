@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">LittleLemon</string>
+
+    //Registration screen
+    <string name="Registration_welcomeText">Let\'\s get to know you</string>
+    <string name="Registration_textInputFieldsDesc">Personal Information</string>
+    <string name="Registration_helpFirstName">Enter your first name </string>
+    <string name="Registration_example_FirstName">Example: Thomas</string>
+    <string name="Registration_helpLastName">Enter your last name: </string>
+    <string name="Registration_example_LastName">Example: Addington</string>
+    <string name="Registration_helpEmail">Enter your email: </string>
+    <string name="Registration_example_Email">Enter your email: </string>
+    <string name="Registration_confirm">Register </string>
+
+    <string name="Home_panel_title">Little Lemon</string>
+    <string name="Home_panel_order">Order</string>
+    <string name="Home_panel_chicago">Chicago</string>
+    <string name="Home_panel_descriptionOne">We are family owned mediaterranean restaurant, focused on traditional recipes served with a modern twist</string>
+
+    <string name="Profile_decsScreen">Personal information</string>
+    <string name="Profile_firstName">First name: </string>
+    <string name="Profile_lastName">Last name: </string>
+    <string name="Profile_email">Email: </string>
+    <string name="Profile_saveChange">Save change </string>
+    <string name="Profile_logOut">Log out </string>
+
+    <string name="SingleMenuDish_zeroItems">Sorry, you cannot add 0 items to your cart.</string>
+    <string name="SingleMenuDish_moreThan20Items">Sorry, to add more than 20 items to the cart, please contact the administrator.</string>
+    <string name="SingleMenuDish_successAdd">Successfully added to cart!</string>
+    <string name="SingleMenuDish_buttonAdd">Add to Cart</string>
+
+    <string name="Cart_header">Cart</string>
+
+    <string name="Icon_description_person">Person Icon</string>
+    <string name="Icon_description_email">Email Icon</string>
+
+
+</resources>
