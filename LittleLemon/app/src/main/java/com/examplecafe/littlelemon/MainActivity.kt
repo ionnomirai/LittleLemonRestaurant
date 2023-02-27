@@ -55,10 +55,6 @@ class MainActivity : ComponentActivity() {
         }
 
         lifecycleScope.launch(Dispatchers.IO) {
-            val oldData = database.menuItemDao().getAll().toString()
-            val newData = fetchMenu()
-            Log.d("test2", "oldData: ${oldData}")
-            Log.d("test2", "newData: ${newData}")
             if (database.menuItemDao().isEmpty()) {
                 saveMenuToDatabase(fetchMenu())
                 Log.d("test2", fetchMenu().toString())
