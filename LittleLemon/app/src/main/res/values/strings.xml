@@ -9,7 +9,7 @@
     <string name="Registration_helpLastName">Enter your last name: </string>
     <string name="Registration_example_LastName">Example: Addington</string>
     <string name="Registration_helpEmail">Enter your email: </string>
-    <string name="Registration_example_Email">Enter your email: </string>
+    <string name="Registration_example_Email">Example: tomAdd@gmap.com</string>
     <string name="Registration_confirm">Register </string>
 
     <string name="Home_panel_title">Little Lemon</string>
